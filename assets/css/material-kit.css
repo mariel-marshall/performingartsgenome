@@ -993,8 +993,8 @@ pre code {
 
 
 div.team {
-    margin-left: 12%;
-    margin-right: 12%;
+    margin-left: 14%;
+    margin-right: 14%;
 }
 
 
@@ -1476,7 +1476,7 @@ div.team {
   }
   .col-md-6 {
     flex: 0 0 50%;
-    max-width: 75%;
+    max-width: 100%;
   }
   .col-md-7 {
     flex: 0 0 58.333333%;
